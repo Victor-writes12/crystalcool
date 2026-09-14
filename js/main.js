@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
         + `Quantity: ${encodeURIComponent(quantity)}%0A`
         + `Message: ${encodeURIComponent(message)}`;
 
-      const waNumber = '2348000000000'; // TODO: replace with real WhatsApp business number
+      const waNumber = '2348082643626'; // TODO: replace with real WhatsApp business number
       window.open(`https://wa.me/${waNumber}?text=${text}`, '_blank');
 
       const successEl = document.querySelector('.form-success');
