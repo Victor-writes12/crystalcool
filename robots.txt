@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.crystalcool.ng/sitemap.xml
+Sitemap: https://www.crystalcool.online/sitemap.xml
